@@ -16,4 +16,5 @@ Windows                  17 hrs 52 mins        ███████████
 <li><g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">🚀 </g-emoji> Learning TypeScript to create BitCode <a href="https://pickyourtrail.com" rel="nofollow"></a></li>
 <li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">🔎</g-emoji> Learning machine learning for my Visual project</li>
 </ul>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thijsrijkers&show_icons=true&theme=dark)
 
