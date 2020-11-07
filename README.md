@@ -25,4 +25,23 @@ const anmol = {
 🌃 Evening    146 commits       ███████                 27.75% 
 🌙 Night      369 commits       ████████████████████    70,15%</code></pre>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thijsrijkers&show_icons=true&theme=dracula)
+<p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>This Week I Spent My Time On</strong></p>
+<pre lang="text"><code>⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               14 hrs 26 mins      ████████████████████░░░░░   80.87% 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.51% 
+PHP                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.01% 
+Vue.js                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.39% 
+Markdown                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34%
+
+🔥 Editors: 
+WebStorm                 16 hrs 33 mins      ███████████████████████░░   92.67% 
+PhpStorm                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.01% 
+Android Studio           23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23% 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+
+💻 Operating System: 
+Windows                  17 hrs 52 mins      █████████████████████████   100.0%
+
+</code></pre>
