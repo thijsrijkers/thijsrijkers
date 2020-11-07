@@ -21,6 +21,13 @@ const anmol = {
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thijsrijkers&show_icons=true&theme=dracula)
 
+<pre lang="text"><code>🌞 Morning    0 commits     ███░░░░░░░░░░░░░░░░░░░░░░   0% 
+🌆 Daytime    11 commits    ████░░░░░░░░░░░░░░░░░░░░░░   2.09% 
+🌃 Evening    146 commits    ███████░░░░░░░░░░░░░░░░░░   27.75% 
+🌙 Night      369 commits    ████████████████████░░░░   70,15%
+
+</code></pre>
+
 <a> 
 <img src="https://media1.tenor.com/images/e2da6f3fee456a56a86e3c16ffa2032e/tenor.gif?itemid=17584522" alt="chrome offline game cast" style="max-width:10%;">
 </a>
