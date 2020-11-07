@@ -21,10 +21,12 @@ const anmol = {
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thijsrijkers&show_icons=true&theme=dracula)
 
-<pre lang="text"><code>🌞 Morning    0 commits     ███░░░░░░░░░░░░░░░░░░░░░░   0% 
-🌆 Daytime    11 commits    ████░░░░░░░░░░░░░░░░░░░░░░   2.09% 
-🌃 Evening    146 commits    ███████░░░░░░░░░░░░░░░░░░   27.75% 
-🌙 Night      369 commits    ████████████████████░░░░   70,15%
+<p><strong>I'm a Night <g-emoji class="g-emoji" alias="owl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f989.png">🦉</g-emoji></strong></p>
+<pre lang="text"><code>
+🌞 Morning    0 commits                                 0% 
+🌆 Daytime    11 commits        ████                    2.09% 
+🌃 Evening    146 commits       ███████                 27.75% 
+🌙 Night      369 commits       ████████████████████    70,15%
 
 </code></pre>
 
