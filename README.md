@@ -11,3 +11,5 @@
 💻 Operating System: 
 Windows                  17 hrs 52 mins        █████████████████████        100.0%</code></pre>
 
+<p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>Im Currently Working On</strong></p>
+
