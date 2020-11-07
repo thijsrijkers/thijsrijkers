@@ -17,5 +17,4 @@ Windows                  17 hrs 52 mins        ███████████
 <li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">🔎</g-emoji> Learning machine learning for my Visual project</li>
 </ul>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thijsrijkers&show_icons=true&theme=dark)
 
