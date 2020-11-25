@@ -15,7 +15,7 @@ Windows                  17 hrs 52 mins        ███████████
 <ul>
 <li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">🔎</g-emoji> Learning machine learning for my Visual project</li>
 <li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">🚀</g-emoji> Working on BitCode</li>
-<li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">☄</g-emoji> Working on Codeship</li>
+<li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">🔎 </g-emoji> Working on Visual</li>
 </ul>
 
 
