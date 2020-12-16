@@ -10,6 +10,7 @@
 
 💻 Operating System: 
 Windows                  17 hrs 52 mins        █████████████████████        100.0%</code></pre>
+ <p align="center"><img src="blob:https://giphy.com/3543ed53-de42-4e08-81f4-aac615729895" width="220" height="200"> </p>
 
 <p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png"></g-emoji> <strong>Im Currently</strong></p>
 <ul>
