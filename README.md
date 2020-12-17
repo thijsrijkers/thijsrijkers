@@ -1,4 +1,4 @@
-<img width="460" height="auto" align="right" alt="Joykishan's github stats" src="https://github-readme-stats.vercel.app/api?username=thijsrijkers&amp;show_icons=true&amp;theme=algolia&amp;count_private=true&amp;include_all_commits=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thijsrijkers&amp;show_icons=true&amp;theme=algolia&amp;count_private=true&amp;include_all_commits=true" style="max-width:100%;">
+<img width="460" height="auto" alt="Joykishan's github stats" src="https://github-readme-stats.vercel.app/api?username=thijsrijkers&amp;show_icons=true&amp;theme=algolia&amp;count_private=true&amp;include_all_commits=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thijsrijkers&amp;show_icons=true&amp;theme=algolia&amp;count_private=true&amp;include_all_commits=true" style="max-width:100%;">
 
 <pre>const Thijs = {
   code: [Javascript, Typescript, C#, PHP, CSS, C++, Python, Java],
