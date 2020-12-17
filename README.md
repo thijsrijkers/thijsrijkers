@@ -8,8 +8,8 @@
           Company: "ProvrexBV",
           job_description: "Unity Developer"
         },
- challenge: "Focussing atm on Typescript and C++",
- im_currently: {
+  challenge: "Focussing atm on Typescript and C++",
+  im_currently: {
                   working_on: "🌸Fuschia (personal project)",
                   working_on: "🧞‍Arch (personal project)",
                }
