@@ -1,9 +1,9 @@
 <pre>const Thijs = {
   code: [Javascript, Typescript, C#, PHP, CSS, C++, Python, Java],
   tools: [React, Node, Docker],
-  Studying: "NHL Stenden Hogeschool (still at school)",
+  studying: "NHL Stenden Hogeschool (still studying atm)",
   work: {
-          Company: "ProvrexBV",
+          company: "ProvrexBV",
           job_description: "Unity Developer"
         },
   challenge: "Focussing atm on Typescript and C++",
