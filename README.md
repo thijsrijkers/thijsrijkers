@@ -8,9 +8,10 @@
           Company: "ProvrexBV",
           job_description: "Unity Developer"
         },
- challenge: "Focussing atm on Typescript and C++"
+ challenge: "Focussing atm on Typescript and C++",
+ im_currently: {
+                  working_on: "🌸Fuschia (personal project)",
+                  working_on: "🧞‍Arch (personal project)",
+               }
 }</pre>
 
-<p><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png"></g-emoji> <strong>Im Currently</strong></p>
-<ul><li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">🌸</g-emoji> Working on Fuschia</li>
-<li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">🧞‍♂️</g-emoji> Working on Arch</li></ul>
