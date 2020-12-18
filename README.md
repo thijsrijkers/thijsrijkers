@@ -17,3 +17,10 @@
 
 <img width="360" height="auto" alt="thijsrijkers's github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=thijsrijkers" data-canonical-src="https://github.com/anuraghazra/github-readme-stats" style="max-width:100%;">
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thijsrijkers&amp;show_icons=true&amp;theme=algolia&amp;count_private=true&amp;include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thijsrijkers" />
+</a>
+
