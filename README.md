@@ -13,7 +13,7 @@
                }
 }</pre>
 
-<img align="left" width="360" height="auto" alt="thijsrijkers's github stats" src="https://github-readme-stats.vercel.app/api?username=thijsrijkers&amp;show_icons=true&amp;theme=algolia&amp;count_private=true&amp;include_all_commits=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thijsrijkers&amp;show_icons=true&amp;theme=algolia&amp;count_private=true&amp;include_all_commits=true">
+<img align="left" width="460" height="auto" alt="thijsrijkers's github stats" src="https://github-readme-stats.vercel.app/api?username=thijsrijkers&amp;show_icons=true&amp;theme=algolia&amp;count_private=true&amp;include_all_commits=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thijsrijkers&amp;show_icons=true&amp;theme=algolia&amp;count_private=true&amp;include_all_commits=true">
 
-<img align="right" width="260" height="auto" alt="thijsrijkers's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thijsrijkers&layout=compact" data-canonical-src="https://github.com/anuraghazra/github-readme-stats">
+<img align="right" width="360" height="auto" alt="thijsrijkers's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thijsrijkers&layout=compact" data-canonical-src="https://github.com/anuraghazra/github-readme-stats">
 
