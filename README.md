@@ -8,7 +8,7 @@
         },
   challenge: "Focussing atm on Typescript",
   im_currently: {
-                  working_on: "🌸Fuschia (personal project)"
+                  working_on: "my pinned repositories"
                }
 }</pre>
 
