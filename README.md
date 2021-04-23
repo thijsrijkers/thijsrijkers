@@ -1,6 +1,6 @@
 <pre>const Thijs = {
   code: [Javascript, Typescript, C#, PHP, CSS, C++, Python, Java],
-  tools: [React, Node, Docker],
+  tools: [React, Node, Docker, Angular, Laravel],
   studying: "NHL Stenden Hogeschool (still studying atm)",
   work: {
           company: "ProvrexBV",
