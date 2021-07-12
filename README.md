@@ -6,7 +6,7 @@
           company: "ProvrexBV",
           job_description: "Unity Developer / Software Engineer"
         },
-  challenge: "Focussing atm on Typescript",
+  challenge: "Focussing atm on improving at Javascript",
   im_currently: {
                   working_on: "my pinned repositories"
                 }
