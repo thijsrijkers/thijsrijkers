@@ -4,7 +4,7 @@
   studying: "NHL Stenden Hogeschool (still studying atm)",
   work: {
           company: "ProvrexBV",
-          job_description: "Unity Developer / Software Engineer"
+          job_description: "Software Engineer / Front-end Developer"
         },
   challenge: "Focussing atm on improving at Javascript",
   im_currently: {
