@@ -1,5 +1,5 @@
 <pre>const Thijs = {
-  code: [Javascript, Typescript, C#, PHP, C++, Python, Java. Dart],
+  code: [Javascript, Typescript, C#, PHP, C++, Python, Java. Dart, CSS],
   tools: [React, Node, Docker, Angular, Laravel, Unity, Flutter],
   studying: "NHL Stenden Hogeschool (still studying atm)",
   work: {
