@@ -6,7 +6,7 @@
           company: "ProvrexBV",
           job_description: "Software Engineer"
         },
-  challenge: "Focussing atm on improving at Javascript",
+  challenge: "Focussing atm on improving at Typescript/Javascript",
   im_currently: {
                   working_on: "my pinned repositories"
                 }
