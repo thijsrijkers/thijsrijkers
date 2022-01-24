@@ -6,7 +6,7 @@
           company: "ProvrexBV",
           job_description: "Software Engineer"
         },
-  challenge: "Focussing atm on Munt & Draw",
+  challenge: "Focussing atm on Munt",
   im_currently: {
                   working_on: "my pinned repositories"
                 }
