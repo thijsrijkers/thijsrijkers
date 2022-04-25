@@ -1,7 +1,7 @@
 <pre>const Thijs = {
   code: [Javascript, Typescript, C#, F#, PHP, C++, Python, Java. Dart, SQL, CSS],
   tools: [React, Node, Angular, Laravel, Blade, VueJS, Unity, Flutter],
-  studying: "NHL Stenden Hogeschool (still studying atm)",
+  studying: "NHL Stenden Hogeschool (Informatica - Front-End)",
   work: {
           company: "ProvrexBV",
           job_description: "Software Engineer"
