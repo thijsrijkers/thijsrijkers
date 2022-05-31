@@ -5,9 +5,9 @@
   work: {
           company: "ProvrexBV",
           job_description: "Software Engineer"
-        },
-  challenge: "Focussing atm on Dusk,
+  },
+  challenge: "Getting a deeper knowledge of Javascript",
   im_currently: {
-                  working_on: "my pinned repositories"
-                }
+    working_on: "Dusk & related projects"
+  }
 }</pre>
