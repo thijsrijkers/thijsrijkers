@@ -8,6 +8,6 @@
   },
   challenge: "Getting a deeper knowledge of Javascript",
   im_currently: {
-    working_on: "Dusk & related projects"
+    working_on: "Silcker & related projects"
   }
 }</pre>
