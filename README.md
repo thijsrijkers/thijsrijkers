@@ -6,6 +6,6 @@
     job_description: "Fullstack developer"
   },
   im_currently: {
-    working_on: "Decompilation of Pokémon Emerald"
+    working_on: "Decompilation of Pokémon Emerald & creating a card scanning app for MTG"
   }
 }</pre>
