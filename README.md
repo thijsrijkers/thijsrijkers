@@ -6,5 +6,10 @@
     company: "Coolblue",
     job_description: "Backend developer"
   }
+  current_projects: {
+    torso: "self-hosted infrastructure engine",
+    solune: "A NoSQL database",
+    guild: "AI coding agent for personal use"
+  }
 }</pre>
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/> -->
